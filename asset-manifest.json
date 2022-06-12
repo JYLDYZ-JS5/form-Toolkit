@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/form-Toolkit/static/css/main.1eda0588.chunk.css",
+    "main.js": "/form-Toolkit/static/js/main.64f8a3b9.chunk.js",
+    "main.js.map": "/form-Toolkit/static/js/main.64f8a3b9.chunk.js.map",
+    "runtime-main.js": "/form-Toolkit/static/js/runtime-main.32e2e3f6.js",
+    "runtime-main.js.map": "/form-Toolkit/static/js/runtime-main.32e2e3f6.js.map",
+    "static/js/2.6370accd.chunk.js": "/form-Toolkit/static/js/2.6370accd.chunk.js",
+    "static/js/2.6370accd.chunk.js.map": "/form-Toolkit/static/js/2.6370accd.chunk.js.map",
+    "index.html": "/form-Toolkit/index.html",
+    "static/css/main.1eda0588.chunk.css.map": "/form-Toolkit/static/css/main.1eda0588.chunk.css.map",
+    "static/js/2.6370accd.chunk.js.LICENSE.txt": "/form-Toolkit/static/js/2.6370accd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32e2e3f6.js",
+    "static/js/2.6370accd.chunk.js",
+    "static/css/main.1eda0588.chunk.css",
+    "static/js/main.64f8a3b9.chunk.js"
+  ]
+}
