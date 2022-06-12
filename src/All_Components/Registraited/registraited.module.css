@@ -1,0 +1,8 @@
+.logged {
+    display: flex;
+    flex-direction: column;
+    color: #1a8ed1;
+    background-color: rgba(2, 9, 38, 0.984);
+    padding: 30px;
+    border-radius: 20px;
+}
